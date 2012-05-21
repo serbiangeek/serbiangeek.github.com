@@ -4,7 +4,7 @@
   <title><![CDATA[Serbian Geek Blog]]></title>
   <link href="http://serbiangeek.github.com/atom.xml" rel="self"/>
   <link href="http://serbiangeek.github.com/"/>
-  <updated>2012-05-21T13:11:19+02:00</updated>
+  <updated>2012-05-21T13:21:12+02:00</updated>
   <id>http://serbiangeek.github.com/</id>
   <author>
     <name><![CDATA[serbiangeek]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Test post]]></title>
+    <title type="html"><![CDATA[Test]]></title>
     <link href="http://serbiangeek.github.com/blog/2012/05/21/test-post/"/>
     <updated>2012-05-21T12:56:00+02:00</updated>
     <id>http://serbiangeek.github.com/blog/2012/05/21/test-post</id>
